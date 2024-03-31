@@ -235,7 +235,7 @@ MonoBehaviour:
   textLComponent: {fileID: 40439168}
   infoYG: {fileID: 11400000, guid: 162644796a8b0d044bce3d6fda0641e3, type: 2}
   text: "\u0421\u041B\u0418\u042F\u041D\u0418\u0415 \u0424\u0420\u0423\u041A\u0422\u041E\u0412"
-  ru: "\u0421\u041B\u0418\u042F\u041D\u0418\u0415 \u0424\u0420\u0423\u041A\u0422\u041E\u0412"
+  ru: "\u0424\u0420\u0423\u041A\u0422\u041E\u0412\u041E\u0415 \u0421\u041B\u0418\u042F\u041D\u0418\u0415"
   en: MERGE FRUITS
   tr: 
   az: 
@@ -661,7 +661,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 280}
-  m_SizeDelta: {x: 380, y: 128}
+  m_SizeDelta: {x: 462.41, y: 128}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1463597373
 MonoBehaviour:
