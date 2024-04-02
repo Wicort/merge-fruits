@@ -1,2 +1,2 @@
-Build path: D:/github/merge-fruits/Builds/Merge Fruits
-Build number: 12
+Build path: C:/work/git/github/WicortVG/merge-fruits/Builds/Fruit Merge
+Build number: 13

@@ -47,8 +47,8 @@ namespace Ilumisoft.MergeDice
             gameUI.gameObject.SetActive(false);
             gameOverUI.gameObject.SetActive(true);
             yield return overlayCanvas.FadeOut();
-            yield return new WaitForSeconds(.5f);
-            YandexGame.FullscreenShow();
+            //yield return new WaitForSeconds(.5f);
+            //YandexGame.FullscreenShow();
         }
     }
 }

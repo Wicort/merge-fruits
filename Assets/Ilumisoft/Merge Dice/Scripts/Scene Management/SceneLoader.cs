@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using YG;
 
 namespace Ilumisoft.MergeDice.SceneManagement
 {
@@ -16,6 +17,7 @@ namespace Ilumisoft.MergeDice.SceneManagement
 
         public void LoadScene(string name)
         {
+            YandexGame.FullscreenShow();
             StopAllCoroutines();
             StartCoroutine(LoadSceneCoroutine(name));
         }

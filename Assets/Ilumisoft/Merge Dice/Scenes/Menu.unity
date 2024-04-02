@@ -196,7 +196,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.25
-  m_Text: MERGE FRUITS
+  m_Text: FRUIT MERGE
 --- !u!222 &40439169
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -236,7 +236,7 @@ MonoBehaviour:
   infoYG: {fileID: 11400000, guid: 162644796a8b0d044bce3d6fda0641e3, type: 2}
   text: "\u0421\u041B\u0418\u042F\u041D\u0418\u0415 \u0424\u0420\u0423\u041A\u0422\u041E\u0412"
   ru: "\u0424\u0420\u0423\u041A\u0422\u041E\u0412\u041E\u0415 \u0421\u041B\u0418\u042F\u041D\u0418\u0415"
-  en: MERGE FRUITS
+  en: FRUIT MERGE
   tr: 
   az: 
   be: 
